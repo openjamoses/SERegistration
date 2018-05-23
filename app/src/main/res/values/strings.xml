@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">E-Marks</string>
+    <string name="description_info">Info</string>
+    <string name="retake_picture">Retake picture</string>
+    <string name="add_picture">Add more picture</string>
+    <string name="request_permission">This sample needs camera &amp; storage permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="camera">Camera</string>
+    <string name="action_capture">Capture</string>
+    <string name="action_exit">Exit</string>
+    <string name="submit_details">Submit Details</string>
+    <string name="reg_number">Reg Number</string>
+    <string name="course">Course</string>
+    <string name="semester">Semester</string>
+    <string name="click_on_camera_icon">Click on the camera icon to take pictures.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="student_registration_menu">Student\'s Registration</string>
+    <string name="registration_details">Registration Details</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success_reg">Reg noumber read successfully</string>
+    <string name="ocr_success_marks">Marks read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="marks">Marks</string>
+    <string name="detect_regno">DETECT REGNO</string>
+    <string name="detect_marks">Detect Marks</string>
+    <string name="Click_on_button_below_to_detect_regno_or_marks">Click on the button bellow to detect Registratio number or the Student\'s marks</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_connection">Connection</string>
+    <string name="server_connectivity">Server Connectivity</string>
+    <string name="close">Connect</string>
+    <string name="ip_address">Server Address</string>
+    <string name="send">Send Marks</string>
+    <string name="submit_marks">Submit Student\'s Marks</string>
+</resources>
